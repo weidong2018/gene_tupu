@@ -1,0 +1,54 @@
+[have1] What genes do species have ?
+[have2] What species do gene id exist in ?
+[be_transcribed_into1] Gene id is transcribed into what sequence ?
+[be_transcribed_into2] Gene id is transcribed into what protein ?
+[be_transcribed_into31] sequence id is transcribed from which gene ?
+[be_transcribed_into32] protein id is transcribed from which gene ?
+[is_a] what is the GO that has relationship "is a " with GO id ?
+[negatively_regulates] what is the GO that has relationship "negatively regulates " with GO id ?
+[positively_regulates] what is the GO that has relationship "positively regulates " with GO id ?
+[regulates] what is the GO that has relationship "regulates " with GO id?
+[part_of] what is the GO that has relationship "part of" with GO id?
+[molecular_function] what genes do molecular function includes in Species ?
+[biological_process] what genes do biological process includes in Species ?
+[cellular_component] what genes do cellular component includes in Species ?
+[eco] what genes is an evidence ontology in Species?
+[belong_to] Sequence id belongs to which protein? 
+[eco1] What genes are involved in the evidence and conclusion ontology of the gene ontology GO ?
+[eco2] How many genes are involved in the evidence and conclusion ontology of gene ontology GO ?
+[eco3] Does this gene participate in the evidence and conclusion ontology of gene ontology GO ?
+[biological_process1] What genes are involved in this biological process of the gene ontology GO ?
+[biological_process2] How many genes are involved in this biological process of gene ontology GO ?
+[biological_process3] Does this gene participate in this biological process of gene ontology GO ?
+[cellular_component1] What genes are contained in the cellular components of the gene ontology GO ?
+[cellular_component2] How many genes are contained in the cellular components of gene ontology GO ?
+[cellular_component3] Does the cell component of gene ontology GO contain this gene ?
+[molecular_function1] Which genes perform molecular functions on this gene ontology GO ?
+[molecular_function2] How many genes perform molecular functions on this gene ontology GO ?
+[molecular_function3] Does this gene perform molecular functions on this gene ontology GO ?
+[have3] Does this gene exist in this species ?
+[have4] How many genes exist in this species ?
+[is_a1] What are the subtype of this gene ontology GO ?
+[is_a2] How many subcategories are there in this gene ontology GO ? 
+[is_a3] Is this gene ontology GO a subcategory of the gene ontology GO ?
+[part_of1] What part of this gene ontology GO ?
+[part_of2] How many parts of this gene ontology GO are there?
+[part_of3] This gene ontology GO is part of which gene ontology GO ?
+[part_of4] Is this gene ontology GO part of that gene ontology GO ? 
+[regulates1] Which gene ontology GO does the gene ontology GO regulate ?
+[regulates2] Does the gene ontology GO regulate the gene ontology GO ? 
+[regulates3] How many gene ontologies GO does this gene ontology GO regulate ?
+[regulates4] Which gene ontology has a regulatory effect ?
+[positively_regulates1] Which gene ontology GO does the gene ontology GO positive regulate ?
+[positively_regulates2] Does the gene ontology GO positive regulate the gene ontology GO ?
+[positively_regulates3] How many gene ontologies GO does this gene ontology GO positive regulate ?
+[positively_regulates4] Which gene ontology has a positive regulatory effect ?
+[negatively_regulates1] Which gene ontology GO does the gene ontology GO negative regulate ?
+[negatively_regulates2] Does the gene ontology GO negative regulate the gene ontology GO ?
+[negatively_regulates3] How many gene ontologies GO does the gene ontology GO negative regulate ?
+[negatively_regulates4] Which gene ontology has a negative regulatory effect ?
+[species_graph] What species are in the biological gene graph ?
+[genes_graph] What genes are in the biological gene graph ?
+[go_graph] What gene ontologies GO are in the biological gene graph ?
+[sequences_graph] What sequences are in the biological gene graph ?
+[proteins_graph] What proteins are in the biological gene graph ?
